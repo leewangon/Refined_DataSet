@@ -9,7 +9,8 @@ Refined Training and Test dataset for Knowledge Graph Model
 
 ## Data overview
 ```description02
-    In this project, we eliminated triples about coordinates, time and dates. In addition, ambiguous data related to the university's sports team were excluded.
+    In this project, we eliminated triples about coordinates, time and dates.  
+    In addition, ambiguous data related to the university's sports team were excluded.
 ```
 
 ## Data format
@@ -27,7 +28,7 @@ Refined Training and Test dataset for Knowledge Graph Model
 
 ## Statistics of dataset
 -------------------------------------
-|NELL-995|      |
+|NELL-995<td colspan=2>|      |
 |:-----------:|:------------:|
 |Size|26MB|
 |Triples|308,426|
@@ -36,8 +37,7 @@ Refined Training and Test dataset for Knowledge Graph Model
 |Classes|292|
 
 ## The institute to construct dataset
- * __ __
-#### http://rtw.ml.cmu.edu/rtw/
+ * __NELL-995 : http://rtw.ml.cmu.edu/rtw/__
 
 ## Citation
 If our dataset is helpful, please kindly cite the following paper:
@@ -52,4 +52,4 @@ Year = {2015}
 ```
 
 ## Acknowledgement
- * This work was supported by the ~~~~~.
+ * 

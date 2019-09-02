@@ -27,8 +27,8 @@ Refined Training and Test dataset for Knowledge Graph Model
 
 
 ## Statistics of dataset
-|:-----------:|------------:|
 | NELL-995 ||
+|:-----------:|------------:|
 |Size|26MB|
 |Triples|308,426|
 |Entities|75,492|

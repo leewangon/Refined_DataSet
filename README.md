@@ -27,13 +27,13 @@ Refined Training and Test dataset for Knowledge Graph Model
 
 
 ## Statistics of dataset
-|NELL-995||
-|:-----------:|------------:|
-|Size|26MB|
-|Triples|308,426|
-|Entities|75,492|
-|Relations|400|
-|Classes|292|
+||NELL-995|Fb15K-237|
+|:-----------:|------------:|------------:|
+|Size|26MB|47MB|
+|Triples|308,426|309,800|
+|Entities|75,492|14,536|
+|Relations|400|236|
+|Classes|292|354|
 
 ## The institute to construct dataset
  * __NELL-995 : http://rtw.ml.cmu.edu/rtw/__
@@ -50,5 +50,3 @@ Year = {2015}
 }
 ```
 
-## Acknowledgement
- * 
